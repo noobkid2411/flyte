@@ -9,7 +9,7 @@ body:
       required: true
     attributes:
       label: "Why would this plugin be helpful to the Flyte community"
-      description: " Explain the usecases for the plugin."
+      description: " Explain the usecases for the plugin. "
       placeholder: " Ex. I'm always frustrated when [...] OR why this would be a cool addition.."
   - type: dropdown
     id: type
